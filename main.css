@@ -1,0 +1,8 @@
+/* Vertically center the body */
+html, body {height:100%;}
+html {display:table; width:100%;}
+body {display:table-cell; text-align:center; vertical-align:middle;}
+
+h2 {
+  color: #0047ab;
+}
